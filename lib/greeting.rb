@@ -1,5 +1,5 @@
 def say_hello_world_ten_times
-  phrase = "Hello World"
+  phrase = "hello world"
   puts phrase
   puts phrase
   puts phrase
